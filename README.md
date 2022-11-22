@@ -1,8 +1,8 @@
 # Phone-Number-Location-Python
 
-This program is for educational purpose only!
+This program is for educational purposes only!
 
-This is a program that allows a user to find details of a phone number using python. This program allows a user to insert a phone number and find the city/state of the phone number. The user will then be able to find the longitude and latitude of the phone number. The program will then create an HTML file showing the location of the phone number on the map. The location of the phone number is not precise, however, it is close. To create this program, I had to use, GeoCoder, OpenCage, and Folium.  
+This program allows a user to find details of a phone number using python. This program enables a user to insert a phone number allowing the program to find the city/state of the phone number. The user will then be able to find the longitude and latitude of the phone number. The program will then create an HTML file showing the location of the phone number on the map. The location of the phone number could be more precise; however, it is close. To create this program, I had to use, GeoCoder, OpenCage, and Folium.  
 
 
 ## What I Learned/Project Covers
