@@ -22,7 +22,7 @@ This is a...
 
 Phone Number:
 
-<img src = "images/PHN.png" width = 550 height= 400> 
+<img src = "images/PHN.png"> 
 
 Phone Number Details:
 
