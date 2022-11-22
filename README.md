@@ -30,6 +30,6 @@ Phone Number Details:
 
 Location of Phone Number:
 
-<img src = "images/Loco.png" > 
+<img src = "images/Loco.png" width = 400 length = 400 > 
 
 
