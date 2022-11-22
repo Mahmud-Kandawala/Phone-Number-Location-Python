@@ -9,10 +9,6 @@ pepnumber = phonenumbers.parse(number)
 location = geocoder.description_for_number(pepnumber, "en")
 print(location)
 
-from phonenumbers import carrier 
-service_pro = phonenumbers.parse(number)
-print(carrier.name_for_number(service_pro, "en"))
-
 from opencage.geocoder import OpenCageGeocode
 
 key = '006e54ddcdc64876869e4dedb74fc0b2'
