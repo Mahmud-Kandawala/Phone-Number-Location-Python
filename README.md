@@ -22,14 +22,14 @@ This is a...
 
 Phone Number:
 
-<img src = "images/home.png" width = 550 height= 400> 
+<img src = "images/PHN.png" width = 550 height= 400> 
 
 Phone Number Details:
 
-<img src = "images/adding1.png" > 
+<img src = "images/PHNL.png" > 
 
 Location of Phone Number:
 
-<img src = "images/total.png" > 
+<img src = "images/Loco.png" > 
 
 
